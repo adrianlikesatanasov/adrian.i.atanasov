@@ -1,0 +1,10 @@
+#ifndef QUADRATICROOTS_H
+#define QUADRATICROOTS_H
+
+// Структура за резултатите от квадратно уравнение
+struct QuadraticRootsResult {
+    double x1;         // Първи корен
+    double x2;         
+};
+
+#endif // QUADRATICROOTS_H
